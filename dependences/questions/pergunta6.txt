@@ -1,0 +1,4 @@
+Os quatros principais tipos de fluxograma são:
+
+ Fluxograma de documentos                                                           Fluxograma de dados         
+Fluxograma de sistema                                                                   Fluxograma de programas

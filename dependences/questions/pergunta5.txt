@@ -1,0 +1,2 @@
+Uma das regras básicas na elaboração de fluxograma é de que todosos símbolos devem possuir
+pelo menos uma entrada e uma saída.

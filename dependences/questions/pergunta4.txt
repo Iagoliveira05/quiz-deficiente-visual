@@ -1,0 +1,1 @@
+Em um fluxograma, o símbolo anterior é utilizado para indicar uma decisão.

@@ -1,0 +1,1 @@
+Em um fluxograma, o símbolo terminal é utilizado no início e no fim de um processo.

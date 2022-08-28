@@ -1,0 +1,5 @@
+Toda vez que for gerado algum documento durante o processo, é este símbolo que deverá ser 
+utilizado. É o caso de elaboração de propostas, contratos, relatórios, entre outros.
+
+Esses símbolos também podem ser sobrepostos para definir um conjunto de documentos gerados
+em uma única etapa do processo.
